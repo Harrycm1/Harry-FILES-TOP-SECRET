@@ -56,7 +56,7 @@ label3 = Label(root, text="Pick an animal", font=("Arial", 10, "bold"))
 label3.grid(row=7, column=0, columnspan=2, pady=10)
 
 animals = ["Baboon", "Bee", "Cat", "Chicken", "Cougar", "Deer", "Dog", "Eagle", "Fish", "Goat",
-           "Leopard", "Lion", "Megalodon", "Octapus", "Pig", "Raccoon", "Seal", "Tuna", "MONKEY"]
+           "Leopard", "Lion", "Megalodon", "Octapus", "Pig", "Raccoon", "Seal", "Tuna", "MONKEY", "Zandre"]
 chosen_animals = StringVar()
 chosen_animals.set("")
 
